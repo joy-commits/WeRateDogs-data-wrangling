@@ -7,3 +7,12 @@ The WeRateDogs account also classifies dogs into four (4) stages. These stages a
 
 Three datasets (from three various sources) were used for the data wrangling project.
 The first was downloaded. For the second, the "requests" library was used to download it. The third was additional dataset extracted from Twitter using the Twitter API.
+
+## DATA SOURCE <br>
+Twitter 
+
+## TOOLS USED <br>
+- Pandas🐼 <br>
+- Seaborn <br>
+- Matplotlib <br>
+- Jupyter
