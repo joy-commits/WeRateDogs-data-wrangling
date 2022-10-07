@@ -1,4 +1,4 @@
-# Udacity-data-wrangling
+# WeRateDogs-data-wrangling
 Data wrangling is a very key part of the data analysis process, and it is said to take the most time among all the other phases/stages. 
 Data wrangling entails gathering the data, assessing the data quality and structure, and cleaning it (before the other processes of analyzing the data, visualizing the data, and building predictive models using machine learning).
 
